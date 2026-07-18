@@ -109,3 +109,4 @@ php scripts/generate.php
 - `src/__tests__/Fixtures.php` містить спільні тестові дані (дерева, графи, вправа зі списком).
   Він не має суфікса `Test.php`, тому PHPUnit ніколи не збирає його як тест-набір.
 # kata-machine-php
+# kata-machine-php
